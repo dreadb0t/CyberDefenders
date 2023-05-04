@@ -28,7 +28,7 @@
   <br>
   
 
-  <img src="<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/cyberdefenders_og.png">
+  <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/cyberdefenders_og.png">
 
 <h3 align="center">Project Module - Blue Teaming</h3>
 </div>

@@ -100,9 +100,12 @@ After we downloaded the challange contents, We will be provided a zip file with 
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/pass.png"><br>
 After extracting the zip file we can see that there are three files. One of them is a text file named "Github". The name of the other two image files are "Office" and "WebCam".<br>
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/files.png">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/files.png"><br>
+  
 If we open the file named "Github", we can see that the file contains the URL of an certain Github account.
-
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/URL.png">
+ *URL
  ```sh
  https://github.com/EMarseille99
   ```

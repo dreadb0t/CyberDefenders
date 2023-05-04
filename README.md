@@ -96,12 +96,47 @@ In this challenge, a client has asked users to look into the incident and identi
 ### Process
 We are going to solve this case without using any terminal.
 After we downloaded the challange contents, We will be provided a zip file with all the preliminary data that can aid us in our investigation.
+
+
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/pass.png"><br>
-After extracting the zip file we can see that there are three files. One of them is a text file named "Github". The name of the other two image files are "Office" and "WebCam".<br>
+
+  
+  After extracting the zip file we can see that there are three files. One of them is a text file named "Github". The name of the other two image files are "Office" and "WebCam".<br>
+
+  
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/files.png"><br>
+
   
-If we open the file named "Github", we can see that the file contains the URL of an certain Github accountof the user "EMarseille99".
+If we open the file named "Github", we can see that the file contains the URL of an certain Github account.<br>
+
+  
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/URL.png"><br>
+
+  
+The URL address leads us to an github account of the user "EMarseille99". After visiting the github profile we can see that the user has 14 repositories that we can check manually one by one.
+
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/github-profile.png"> 
+
+
+  Now let's try to solve some question with the information we already have.
+
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q1.1.png">
+
+
+  Our main goal here is to find out the API key added to the respiratories. Since we've checked all 14 repositories one by one, we found something interesting in the repository named "Project Build — Custom-Login-Page". This repository has two file. As soon as we open the "Login Page.js" file, we can see the API key in the code's top-most section. 
+
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q1.png">
+  
+  * Answer
+  ```sh
+  aJFRaLHjMXvYZgLPwiJkroYLGRkNBW
+  ```

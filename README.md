@@ -105,7 +105,7 @@ After extracting the zip file we can see that there are three files. One of them
 If we open the file named "Github", we can see that the file contains the URL of an certain Github account.
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/URL.png">
- *URL
- ```sh
- https://github.com/EMarseille99
+* URL
+  ```sh
+  https://github.com/EMarseille99
   ```

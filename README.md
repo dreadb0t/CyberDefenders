@@ -72,10 +72,13 @@ The Cyberdefenders platform has a number of features and tools available, such a
 
 ● Cybersecurity simulations: The software offers accurate representations of online threats and enables users to practice thwarting them in a secure setting.
 <br>
-● Learning materials: To assist users in learning about cybersecurity ideas and best practices, the platform provides a variety of instructional tools, including articles, videos, and interactive content.
+
+● Learning materials: To assist users in learning about cybersecurity ideas and best practices, the platform provides a variety of instructional tools, including        articles, videos, and interactive content.
 <br>
+
 ● Programs for certification: Cyberdefenders provides certification opportunities for users to show off their cybersecurity expertise.
 <br>
+
 ● Support from the community: The site provides a user and mentor community that may help those who are studying and using cybersecurity techniques.
 <br>
 

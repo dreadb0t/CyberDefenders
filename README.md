@@ -98,6 +98,6 @@ We are going to solve this case without using any terminal.
 After we downloaded the challange contents, We will be provided a zip file with all the preliminary data that can aid us in our investigation.
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/pass.png"><br>
-After extracting the zip file we can see that there are 3 files. One of them is a text file named "Github". "Office" and "WebCam" are the names of the other two image files.<br>
+After extracting the zip file we can see that there are three files. One of them is a text file named "Github". The name of the other two image files are "Office" and "WebCam".<br>
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/files.png">

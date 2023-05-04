@@ -24,13 +24,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Hack The Box</h1>
+  <h1 align="center">CyberDefenders</h1>
   <br>
   
 
   <img src="<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/cyberdefenders_og.png">
 
-<h3 align="center">Project Module - Red Teaming</h3>
+<h3 align="center">Project Module - Blue Teaming</h3>
 </div>
 
 

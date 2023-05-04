@@ -93,3 +93,10 @@ Category : Threat Intel
 According to Crowdstrike, 'Threat intelligence is data that is collected, processed, and analyzed to understand a threat actor’s motives, targets, and attack behaviors. Threat intelligence enables us to make faster, more informed, data-backed security decisions and change their behavior from reactive to proactive in the fight against threat actor.'
 
 In this challenge, a client has asked users to look into the incident and identify the attacker after their network was compromised and taken offline. Currently on the scene and having completed a preliminary investigation are incident responders and digital forensic investigators. Their research demonstrates that the attack was launched from a single user account, most likely an insider.
+### Process
+We are going to solve this case without using any terminal.
+After we downloaded the challange contents, We will be provided a zip file with all the preliminary data that can aid us in our investigation.
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/pass.png">
+After extracting the zip file we can see that there are 3 files. One of them is a text file named "Github". "Office" and "WebCam" are the names of the other two image files.<br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/files.png">

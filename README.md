@@ -140,3 +140,20 @@ Now let's try to solve some question with the information we already have.
   ```sh
   aJFRaLHjMXvYZgLPwiJkroYLGRkNBW
   ```
+**<h3>Question2</h3>**
+<p align="center">
+
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/ques-2.png">
+
+
+ Srolling down the same file we can see that there is a password written in base64.
+
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q2..png"><br>
+
+We need to decode it for the answer.<br>
+ 
+ <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/decode.png"><br>
+ * Answer
+  ```sh
+  PicassoBaguette99
+  ```

@@ -169,3 +169,42 @@ Since we went through each repository one at a time a while back, we did come ac
   ```sh
  XMRig
   ```
+We have solved first three question by analyzing given github profile. NOw, if we search insiders username which we got from github in google then we will see that the insider also have a linkedin and an instagram profile along with github.
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/social%20media.png"> 
+
+If we visit to the linkedin profile we will find more information about him/her. 
+
+
+**<h3>Question4</h3>**
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q4..png"><br>
+
+ We can see that the tread actor studied at the Sorbonne University.<br>
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q4.png"><br>
+
+ * Answer
+  ```sh
+Sorbonne
+  ```
+  **<h3>Question5</h3>**
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q5.0.png"><br>
+
+ We can also see from his/hers linkedin bio that he/she is on **steam**.
+**Steam** is a video game digital distribution service and storefront from Valve.<br>
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q5..png">
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q5.png">
+ * Answer
+  ```sh
+  Steam
+  ```

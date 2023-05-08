@@ -157,3 +157,15 @@ We need to decode it for the answer.<br>
   ```sh
   PicassoBaguette99
   ```
+**<h3>Question3</h3>**
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q3.1.png">
+
+
+Since we went through each repository one at a time a while back, we did come across various frameworks and tools that are connected to crypto-mining. It includes **XMRig**. **XMRig** is open-source software designed for mining cryptocurrencies like Monero or Bitcoin. <br>
+ <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q3.png">
+
+ * Answer
+  ```sh
+ XMRig
+  ```

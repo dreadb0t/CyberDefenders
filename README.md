@@ -234,7 +234,7 @@ Sorbonne
   **<h3>Question7</h3>**
   
   <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q.no7.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q.no.7.png"><br>
  
   In insiders instagram account, he/she posted a picture of the placee where he/she visited on holyday.
 

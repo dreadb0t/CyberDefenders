@@ -174,7 +174,7 @@ We have solved first three question by analyzing given github profile. NOw, if w
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/social%20media.png"> 
 
-If we visit to the linkedin profile we will find more information about him/her. 
+If we visit to the linkedin and instagram profile, we will find more information about him/her. 
 
 
 **<h3>Question4</h3>**
@@ -203,9 +203,21 @@ Sorbonne
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q5..png">
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q5.png">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q5.png"><br>
+There is also a post with a qr code which leads to a gaming website in insiders instagram acccount.<br>
+      <p align="center">
+  <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/qr.code.png"><br>
+
  
  * Answer
   ```sh
   Steam
   ```
+ 
+ **<h3>Question6</h3>**
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q.no6.png"><br>
+If we go to the insiders instagram account, we will find the link to the insiders instagram profile.
+p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q6.png"><br>
+    

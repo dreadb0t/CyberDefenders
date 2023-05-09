@@ -28,7 +28,7 @@
   <br>
   
 
-  <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/cyberdefenders_og.png">
+  <img src="<img src="dreadb0t/CyberDefenders/L,espion-images/cyberdefenders_og.png">
 
 <h3 align="center">Project Module - Blue Teaming</h3>
 </div>
@@ -99,42 +99,42 @@ After we downloaded the challange contents, We will be provided with a zip file 
 
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/pass.png"><br>
+<img src="dreadb0t/CyberDefenders/L,espion-images/pass.png"><br>
 
   
   After extracting the zip file we can see that there are three files. One of them is a text file named "Github". The name of the other two image files are "Office" and "WebCam".<br>
 
   
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/files.png"><br>
+<img src="dreadb0t/CyberDefenders/L,espion-images/files.png"><br>
 
   
 If we open the file named "Github", we can see that the file contains the URL of an certain Github account.<br>
 
   
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/URL.png"><br>
+<img src="dreadb0t/CyberDefenders/L,espion-images/URL.png"><br>
 
   
 The URL address leads us to an github account of the user "EMarseille99". After visiting the github profile we can see that the user has 14 repositories that we can check manually one by one.
 
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/github-profile.png"> 
+<img src="dreadb0t/CyberDefenders/L,espion-images/github-profile.png"> 
 
 
 Now let's try to solve some question with the information we already have.
 
 **<h3>Question1</h3>**
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q1.1.png">
+<img src="dreadb0t/CyberDefenders/L,espion-images/q1.1.png">
 
 
   Our main goal here is to find out the API key added to the respiratories. Since we've checked all 14 repositories one by one, we found something interesting in the repository named "Project Build — Custom-Login-Page". This repository has two files. As soon as we open the "Login Page.js" file, we can see the API key in the code's top-most section. 
 
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q1.png">
+<img src="dreadb0t/CyberDefenders/L,espion-images/q1.png">
   
   * Answer
   ```sh
@@ -143,27 +143,27 @@ Now let's try to solve some question with the information we already have.
 **<h3>Question2</h3>**
 <p align="center">
 
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/ques-2.png">
+<img src="dreadb0t/CyberDefenders/L,espion-images/ques-2.png">
 
 
  Srolling down the same file we can see that there is a password written in base64.
 
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q2..png"><br>
+<img src="dreadb0t/CyberDefenders/L,espion-images/ques-2.png"><br>
 
 We need to decode it for the answer.<br>
  
- <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/decode.png"><br>
+ <img src="dreadb0t/CyberDefenders/L,espion-images/decode.png"><br>
  * Answer
   ```sh
   PicassoBaguette99
   ```
 **<h3>Question3</h3>**
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q3.1.png">
+<img src="dreadb0t/CyberDefenders/L,espion-images/q3.1.png">
 
 
 Since we went through each repository one at a time a while back, we did come across various frameworks and tools that are connected to crypto-mining. It includes **XMRig**. **XMRig** is open-source software designed for mining cryptocurrencies like Monero or Bitcoin. <br>
- <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q3.png">
+ <img src="dreadb0t/CyberDefenders/L,espion-images/q3.png">
 
  * Answer
   ```sh
@@ -172,7 +172,7 @@ Since we went through each repository one at a time a while back, we did come ac
 We have solved first three question by analyzing given github profile. NOw, if we search insiders username which we got from github in google then we will see that the insider also have a linkedin and an instagram profile along with github.
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/social%20media.png"> 
+<img src="dreadb0t/CyberDefenders/L,espion-images/social media.png"> 
 
 If we visit to the linkedin profile we will find more information about him/her. 
 
@@ -180,7 +180,7 @@ If we visit to the linkedin profile we will find more information about him/her.
 **<h3>Question4</h3>**
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q4..png"><br>
+<img src="dreadb0t/CyberDefenders/L,espion-images/q4..png"><br>
 
  We can see that the tread actor studied at the Sorbonne University.<br>
 
@@ -194,16 +194,16 @@ Sorbonne
   **<h3>Question5</h3>**
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q5.0.png"><br>
+<img src="dreadb0t/CyberDefenders/L,espion-images/q5.0.png"><br>
 
  We can also see from his/hers linkedin bio that he/she is on **steam**.
 **Steam** is a video game digital distribution service and storefront from Valve.<br>
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q5..png">
+<img src="dreadb0t/CyberDefenders/L,espion-images/q5..png">
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/q5.png">
+<img src="dreadb0t/CyberDefenders/L,espion-images/q5.png">
  
  * Answer
   ```sh

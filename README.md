@@ -106,7 +106,7 @@ After we downloaded the challange contents, We will be provided with a zip file 
 
   
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/files.png><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/files.png"><br>
 
   
 If we open the file named "Github", we can see that the file contains the URL of an certain Github account.<br>
@@ -127,7 +127,7 @@ Now let's try to solve some question with the information we already have.
 
 **<h3>Question1</h3>**
 <p align="center">
-<img src="dreadb0t/CyberDefenders/L,espion-images/q1.1.png">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q1.1.png">
 
 
   Our main goal here is to find out the API key added to the respiratories. Since we've checked all 14 repositories one by one, we found something interesting in the repository named "Project Build — Custom-Login-Page". This repository has two files. As soon as we open the "Login Page.js" file, we can see the API key in the code's top-most section. 
@@ -143,7 +143,7 @@ Now let's try to solve some question with the information we already have.
 **<h3>Question2</h3>**
 <p align="center">
 
-<img src="dreadb0t/CyberDefenders/L,espion-images/ques-2.png">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/ques-2.png">
 
 
  Srolling down the same file we can see that there is a password written in base64.
@@ -180,7 +180,7 @@ If we visit to the linkedin profile we will find more information about him/her.
 **<h3>Question4</h3>**
 
 <p align="center">
-<img src="dreadb0t/CyberDefenders/L,espion-images/q4..png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q4..png"><br>
 
  We can see that the tread actor studied at the Sorbonne University.<br>
 

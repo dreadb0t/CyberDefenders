@@ -134,7 +134,7 @@ Now let's try to solve some question with the information we already have.
 
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q1.1.png">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q1.png">
   
   * Answer
   ```sh
@@ -147,9 +147,9 @@ Now let's try to solve some question with the information we already have.
 
 
  Srolling down the same file we can see that there is a password written in base64.
+<p align="center">
 
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/ques-2.png"><br>
-
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q2..png">
 We need to decode it for the answer.<br>
  
  <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/decode.png"><br>
@@ -185,7 +185,7 @@ If we visit to the linkedin profile we will find more information about him/her.
  We can see that the tread actor studied at the Sorbonne University.<br>
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q4..png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q4.png"><br>
 
  * Answer
   ```sh
@@ -194,7 +194,7 @@ Sorbonne
   **<h3>Question5</h3>**
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q5.0.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/Q-5.png"><br>
 
  We can also see from his/hers linkedin bio that he/she is on **steam**.
 **Steam** is a video game digital distribution service and storefront from Valve.<br>

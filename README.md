@@ -245,8 +245,7 @@ Sorbonne
  
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q7..png"><br>
- 
-    We can see that the stucture of the picture is Marina Bay Sands which is in Singapore.
+ We can see that the stucture of the picture is Marina Bay Sands which is in Singapore.
     
    * Answer
   ```sh

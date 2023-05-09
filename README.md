@@ -204,8 +204,10 @@ Sorbonne
 
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q5.png"><br>
-There is also a post with a qr code which leads to a gaming website in insiders instagram acccount.<br>
-      <p align="center">
+
+  There is also a post with a qr code which leads to a gaming website in insiders instagram acccount.<br>
+     
+<p align="center">
   <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/qr.code.png"><br>
 
  
@@ -215,9 +217,12 @@ There is also a post with a qr code which leads to a gaming website in insiders 
   ```
  
  **<h3>Question6</h3>**
+
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q.no6.png"><br>
-If we go to the insiders instagram account, we will find the link to the insiders instagram profile.
+
+  If we go to the insiders instagram account, we will find the link to the insiders instagram profile.
+
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q6.png"><br>
  
@@ -227,3 +232,23 @@ If we go to the insiders instagram account, we will find the link to the insider
   ```
   
   **<h3>Question7</h3>**
+  
+  <p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q.no7.png"><br>
+ 
+  In insiders instagram account, he/she posted a picture of the placee where he/she visited on holyday.
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q7.jpeg"><br>
+ 
+  The place looks familliar. To make sure we can reverse image search the picture.
+ 
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q7..png"><br>
+ 
+    We can see that the stucture of the picture is Marina Bay Sands which is in Singapore.
+    
+   * Answer
+  ```sh
+  Singapore
+  ``` 

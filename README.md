@@ -256,7 +256,7 @@ Sorbonne
    <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/qno8.png"><br>
 
-  The insiders posted 2 picture on instagram witha caption "Nice to meet friends & family Photo 1/2". In 1st picture we can se aa UAE flag in back.<br>
+  The insiders posted 2 picture on instagram witha caption "Nice to meet friends & family Photo 1/2". In 1st picture we can sea a UAE flag in back.<br>
 
  <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q8....png"><br>
@@ -267,14 +267,14 @@ Sorbonne
 <p align="center">
    <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q8.jpeg"><br>
      
-     To make sure, we can reverse image search this.
+  To make sure, we can reverse image search this.
    
   <p align="center">
    <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q8..png"><br>
     
   The city insiders family live is **Dubai**
      
-     * Answer
+   * Answer
   ```sh
   Dubai
   ```

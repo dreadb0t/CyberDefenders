@@ -291,7 +291,7 @@ Sorbonne
   <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q9.png"><br>
     
-    We can see the structue in this picture is **Birmingham new street station entrance**.
+    We can see the structue in this picture is Birmingham new street station entrance.
     
    * Answer
   ```sh

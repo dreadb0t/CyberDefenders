@@ -278,3 +278,23 @@ Sorbonne
   ```sh
   Dubai
   ```
+**<h3>Question9</h3>**
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/qno9.png"><br>
+  
+  <p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/office.jpg"><br>
+  
+  we can reverse image search this.
+  
+  <p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q9.png"><br>
+    
+    We can see the structue in this picture is **Birmingham new street station entrance** <br>
+    
+   * Answer
+  ```sh
+  Birmingham
+  ```
+    

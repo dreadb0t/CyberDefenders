@@ -291,10 +291,30 @@ Sorbonne
   <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q9.png"><br>
     
-    We can see the structue in this picture is **Birmingham new street station entrance** <br>
+    We can see the structue in this picture is **Birmingham new street station entrance**.
     
    * Answer
   ```sh
   Birmingham
   ```
     
+**<h3>Question10</h3>**
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/qno10.png"><br>
+  
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/WebCam.png"><br>
+
+For the last question we have this webcam image from EarthCam. To solve this easily, reverse image search this image.
+    
+ <p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q10.png"><br>
+   
+We found an image with the same angle and point-of-view which was also uploaded in EarthCam. It was taken from the University of Notre Dame live Webcam. The said school is located adjacent to South Bend, Indiana.
+   
+   * Answer
+  ```sh
+  Indiana
+  ```   
+   

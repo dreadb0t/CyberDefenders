@@ -345,12 +345,12 @@ Here it is asking about file transport protocol password. Just applying **ftp** 
 
 **<h3>Question3</h3>**
 <p align="center">
-<img src=""><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq3.png"><br>
 
 CTRL+G> to go to packet 15174. After analysing this packet we can see that there was a dns queries by the user. In the application layer we can see that the recquired domain name is "www.7-zip.org".
 
 <p align="center">
-<img src=""><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q3.png"><br>
 
    * Answer
   ```sh

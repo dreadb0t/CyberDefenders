@@ -317,4 +317,14 @@ We found an image with the same angle and point-of-view which was also uploaded 
   ```sh
   Indiana
   ```   
+
+  # 2. Packetmaze
+
+The packetmaze room on Cyberdefender is a room about digital forensics. The scenerio of this problem is, "As a soc analyst working for a security service provider, you have been tasked with analyzing a packet capture for a customer's employee whose network activity has been monitored for a while -possible insider."
+
+**<h3>Gained skill:</h3>** 
+Getting familiar with Wireshark filters and searching.
+
+### Process
+In the begining we need to decompress the zip file using the given password. in the file we can see there is 
    

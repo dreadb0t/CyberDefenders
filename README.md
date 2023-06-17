@@ -333,7 +333,7 @@ Now let's solve these problems.
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/qq1.png"><br>
   
-Heres it is asking about "ftp password". Just appying *ftp* as filter will reveal the "file transfer protocol".
+Here it is asking about file transport protocol password. Just applying **ftp** as filter will reveal the ftp password.
 
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/Screenshot%202023-05-15%20003919.png"><br>
@@ -343,4 +343,19 @@ Heres it is asking about "ftp password". Just appying *ftp* as filter will revea
   AfricaCTF2021
   ```
 
-   
+**<h3>Question3</h3>**
+<p align="center">
+<img src=""><br>
+
+CTRL+G> to go to packet 15174. After analysing this packet we can see that there was a dns queries by the user. In the application layer we can see that the recquired domain name is "www.7-zip.org".
+
+<p align="center">
+<img src=""><br>
+
+   * Answer
+  ```sh
+  www.7-zip.org
+  ```
+
+
+

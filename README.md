@@ -28,7 +28,7 @@
   <br>
   
 
-  <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/cyberdefenders_og%20copy.png">
+  <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'2Cespion-images/cyberdefenders_og%20copy.png">
 
 <h3 align="center">Project Module - Blue Teaming</h3>
 </div>
@@ -99,7 +99,7 @@ After we downloaded the challange contents, We will be provided with a zip file 
 
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/pass.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/pass.png"><br>
 
   
   After extracting the zip file we can see that there are three files. One of them is a text file named "Github". The name of the other two image files are "Office" and "WebCam".<br>

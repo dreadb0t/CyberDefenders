@@ -331,7 +331,8 @@ Now let's solve these problems.
 
 **<h3>Question1</h3>**
 <p align="center">
-<img src="">https://github.com/dreadb0t/CyberDefenders/blob/main/qq1.png<br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/qq1.png"><br>
+  
 Heres it is asking about "ftp password". Just appying *ftp* as filter will reveal the "file transfer protocol".
 
 <p align="center">

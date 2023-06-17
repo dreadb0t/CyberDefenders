@@ -326,5 +326,20 @@ The packetmaze room on Cyberdefender is a room about digital forensics. The scen
 Getting familiar with Wireshark filters and searching.
 
 ### Process
-In the begining we need to decompress the zip file using the given password. in the file we can see there is 
+In the begining we need to decompress the zip file using the given password. in the file we can see there is a wireshark capture file. 
+Now let's solve these problems.
+
+**<h3>Question1</h3>**
+<p align="center">
+<img src=""><br>
+Heres it is asking about "ftp password". Just appying *ftp* as filter will reveal the "file transfer protocol".
+
+<p align="center">
+<img src=""><br>
+
+   * Answer
+  ```sh
+  AfricaCTF2021
+  ```
+
    

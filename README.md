@@ -28,7 +28,7 @@
   <br>
   
 
-  <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'2Cespion-images/cyberdefenders_og%20copy.png">
+  <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/cyberdefenders_og%20copy.png">
 
 <h3 align="center">Project Module - Blue Teaming</h3>
 </div>
@@ -106,35 +106,35 @@ After we downloaded the challange contents, We will be provided with a zip file 
 
   
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/files.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/files.png"><br>
 
   
 If we open the file named "Github", we can see that the file contains the URL of an certain Github account.<br>
 
   
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/URL.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/URL.png"><br>
 
   
 The URL address leads us to an github account of the user "EMarseille99". After visiting the github profile we can see that the user has 14 repositories that we can check manually one by one.
 
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/github-profile.png"> 
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/github-profile.png"> 
 
 
 Now let's try to solve some question with the information we already have.
 
 **<h3>Question1</h3>**
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q1.1.png">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q1.1.png">
 
 
   Our main goal here is to find out the API key added to the respiratories. Since we've checked all 14 repositories one by one, we found something interesting in the repository named "Project Build — Custom-Login-Page". This repository has two files. As soon as we open the "Login Page.js" file, we can see the API key in the code's top-most section. 
 
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q1.png">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q1.png">
   
   * Answer
   ```sh
@@ -143,27 +143,27 @@ Now let's try to solve some question with the information we already have.
 **<h3>Question2</h3>**
 <p align="center">
 
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/ques-2.png">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/ques-2.png">
 
 
  Srolling down the same file we can see that there is a password written in base64.
 <p align="center">
 
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q2..png">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q2..png">
 We need to decode it for the answer.<br>
  
- <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/decode.png"><br>
+ <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/decode.png"><br>
  * Answer
   ```sh
   PicassoBaguette99
   ```
 **<h3>Question3</h3>**
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q3.1.png">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q3.1.png">
 
 
 Since we went through each repository one at a time a while back, we did come across various frameworks and tools that are connected to crypto-mining. It includes **XMRig**. **XMRig** is open-source software designed for mining cryptocurrencies like Monero or Bitcoin. <br>
- <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q3.png">
+ <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q3.png">
 
  * Answer
   ```sh
@@ -172,7 +172,7 @@ Since we went through each repository one at a time a while back, we did come ac
 We have solved first three question by analyzing given github profile. NOw, if we search insiders username which we got from github in google then we will see that the insider also have a linkedin and an instagram profile along with github.
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/social%20media.png"> 
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/social%20media.png"> 
 
 If we visit to the linkedin and instagram profile, we will find more information about him/her. 
 
@@ -180,12 +180,12 @@ If we visit to the linkedin and instagram profile, we will find more information
 **<h3>Question4</h3>**
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q4..png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q4..png"><br>
 
  We can see that the tread actor studied at the Sorbonne University.<br>
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q4.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q4.png"><br>
 
  * Answer
   ```sh
@@ -194,21 +194,21 @@ Sorbonne
   **<h3>Question5</h3>**
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/Q-5.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/Q-5.png"><br>
 
  We can also see from his/hers linkedin bio that he/she is on **steam**.
 **Steam** is a video game digital distribution service and storefront from Valve.<br>
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q5..png">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q5..png">
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q5.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q5.png"><br>
 
   There is also a post with a qr code which leads to a gaming website in insiders instagram acccount.<br>
      
 <p align="center">
-  <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/qr.code.png"><br>
+  <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/qr.code.png"><br>
 
  
  * Answer
@@ -219,12 +219,12 @@ Sorbonne
  **<h3>Question6</h3>**
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q.no6.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q.no6.png"><br>
 
   If we go to the insiders instagram account, we will find the link to the insiders instagram profile.
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q6.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q6.png"><br>
  
   * Answer
   ```sh
@@ -234,17 +234,17 @@ Sorbonne
   **<h3>Question7</h3>**
   
   <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q.no.7.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q.no.7.png"><br>
  
   In insiders instagram account, he/she posted a picture of the placee where he/she visited on holyday.
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q7.jpeg"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q7.jpeg"><br>
  
   The place looks familliar. To make sure we can reverse image search the picture.
  
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q7..png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q7..png"><br>
  We can see that the stucture of the picture is Marina Bay Sands which is in Singapore.
     
    * Answer
@@ -254,23 +254,23 @@ Sorbonne
   
   **<h3>Question8</h3>**
    <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/qno8.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/qno8.png"><br>
 
   The insiders posted 2 picture on instagram witha caption "Nice to meet friends & family Photo 1/2". In 1st picture we can sea a UAE flag in back.<br>
 
  <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q8....png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q8....png"><br>
   
   So the country the insider lives in must be UAE. But we need the city name.<br>
   In the second picture we can see Burj Khalifa in the back. 
    
 <p align="center">
-   <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q8.jpeg"><br>
+   <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q8.jpeg"><br>
      
   To make sure, we can reverse image search this.
    
   <p align="center">
-   <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q8..png"><br>
+   <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q8..png"><br>
     
   The city insiders family live is **Dubai**
      
@@ -281,15 +281,15 @@ Sorbonne
 **<h3>Question9</h3>**
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/qno9.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/qno9.png"><br>
   
   <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/office.jpg"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/office.jpg"><br>
   
   we can reverse image search this.
   
   <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q9.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q9.png"><br>
     
     We can see the structue in this picture is Birmingham new street station entrance.
     
@@ -301,15 +301,15 @@ Sorbonne
 **<h3>Question10</h3>**
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/qno10.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/qno10.png"><br>
   
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/WebCam.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/WebCam.png"><br>
 
 For the last question we have this webcam image from EarthCam. To solve this easily, reverse image search this image.
     
  <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L%2Cespion-images/q10.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/L'espion-images/q10.png"><br>
    
 We found an image with the same angle and point-of-view which was also uploaded in EarthCam. It was taken from the University of Notre Dame live Webcam. The said school is located adjacent to South Bend, Indiana.
    
@@ -331,12 +331,12 @@ Now let's solve these problems.
 
 **<h3>Question1</h3>**
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/qq1.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq1.png"><br>
   
 Here it is asking about file transport protocol password. Just applying **ftp** as filter will reveal the ftp password.
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/Screenshot%202023-05-15%20003919.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/Screenshot%202023-05-15%20003919.png"><br>
 
    * Answer
   ```sh

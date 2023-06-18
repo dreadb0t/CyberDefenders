@@ -434,7 +434,7 @@ Here we are given a tls session id. We can search this by ctrl+f. We need to cha
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q7.png"><br>
 
-Now, analyse packet number 26923 where the serkey key exchange happened. if we go to transport layer secuirity, we will find the public key in 'Handshake Protocol : Server Key Exchange'
+Now, analyse packet number 26923 where the serkey key exchange happened. If we go to transport layer secuirity, we will find the public key in 'Handshake Protocol : Server Key Exchange'
 
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q77.png"><br>
@@ -453,7 +453,7 @@ Go to Statistics > Resolved Addresses. search '**protonmail.com**'.
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q8.png"><br>
 
-We can see its IP address is 185.70.41.35. Now use '**ip.dst==185.70.41.35 && tls**' as filter. 
+We can see its IP address, which is 185.70.41.35. Now use '**ip.dst==185.70.41.35 && tls**' as filter. 
 
    * Filter
   ```sh
@@ -465,7 +465,7 @@ After the result, the first client Hello packet will have the Random inside.
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q88.png"><br>
 
-   * Filter
+   * Answer
   ```sh
   24e92513b97a0348f733d16996929a79be21b0b1400cd7e2862a732ce7775b70
   ```

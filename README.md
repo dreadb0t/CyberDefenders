@@ -345,12 +345,12 @@ Here it is asking about file transport protocol password. Just applying **ftp** 
 
 **<h3>Question2</h3>**
 <p align="center">
-<img src=""><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq2.png"><br>
 
 To find the IPv6 address of the DNS server used by 192.168.1.26, we can go to statistics > conversation. There we can find the IPv6 address of the DNS server used by 192.168.1.26.
 
 <p align="center">
-<img src=""><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q222.png"><br>
 
    * Answer
   ```sh
@@ -373,7 +373,7 @@ CTRL+G> to go to packet 15174. After analysing this packet we can see that there
 
 **<h3>Question4</h3>**
 <p align="center">
-<img src=""><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq4.png"><br>
 
 To sort out the UDP packets were sent from 192.168.1.26 to 24.39.217.246, we can use the filter **ip.src== 192.168.1.26 && ip.dst ==24.39.217.246 && udp**
    * Filter
@@ -381,7 +381,7 @@ To sort out the UDP packets were sent from 192.168.1.26 to 24.39.217.246, we can
   ip.src== 192.168.1.26 && ip.dst ==24.39.217.246 && udp
   ```
 <p align="center">
-<img src=""><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q4.png"><br>
 
 We can see the number of packet are displayed is 10. 
 

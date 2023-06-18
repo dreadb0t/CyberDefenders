@@ -429,5 +429,54 @@ So, the camera model name used to take picture 20210429_152157.jpg is **LM-Q725K
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq7.png"><br>
 
+Here we are given a tls session id. We can search this by ctrl+f. We need to change it to hex value.
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q7.png"><br>
+
+Now, analyse packet number 26923 where the serkey key exchange happened. if we go to transport layer secuirity, we will find the public key in 'Handshake Protocol : Server Key Exchange'
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q77.png"><br>
+
+   * Answer
+  ```sh
+  04edcc123af7b13e90ce101a31c2f996f471a7c8f48a1b81d765085f548059a550f3f4f62ca1f0e8f74d727053074a37bceb2cbdc7ce2a8994dcd76dd6834eefc5438c3b6da929321f3a1366bd14c877cc83e5d0731b7f80a6b80916efd4a23a4d
+  ```
+
+**<h3>Question8</h3>**
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq8.png"><br>
+
+Go to Statistics > Resolved Addresses. search '**protonmail.com**'. 
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q8.png"><br>
+
+We can see its IP address is 185.70.41.35. Now use '**ip.dst==185.70.41.35 && tls**' as filter. 
+
+   * Filter
+  ```sh
+  ip.dst==185.70.41.35 && tls
+  ```
+
+After the result, the first client Hello packet will have the Random inside.
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q88.png"><br>
+
+   * Filter
+  ```sh
+  24e92513b97a0348f733d16996929a79be21b0b1400cd7e2862a732ce7775b70
+  ```
+
+
+
+
+
+
+
+
+
 
 

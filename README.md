@@ -411,12 +411,12 @@ The destination adress is the MAC address of the system being investigated. Here
 We need to use "ftp-data" as a filter. Then follow tcp stream of any of the packet. Now slect 'raw' in show data as. Save the data. 
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q6.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q66.png"><br>
 
 To find out the model of the camera, we are going to use exif tool.
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q66.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q6.png"><br>
 
 So, the camera model name used to take picture 20210429_152157.jpg is **LM-Q725K**.
 

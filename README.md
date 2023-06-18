@@ -470,9 +470,54 @@ After the result, the first client Hello packet will have the Random inside.
   24e92513b97a0348f733d16996929a79be21b0b1400cd7e2862a732ce7775b70
   ```
 
+**<h3>Question9</h3>**
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq9.png"><br>
 
+The MAC address of the FTP server is 08:00:27:a6:1f:86.
 
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q9.png"><br>
 
+Now, to look in which country this mac address is registered in we can use a online tool name 'DNS Lookup'
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q99.png"><br>
+
+   * Answer
+  ```sh
+  United States
+  ```
+
+**<h3>Question10</h3>**
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq10.png"><br>
+
+Use filte **ftp-data**. Follow any packets tcp stream. Use stream 11.
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q10.png"><br>
+
+There you can see the time was when a non-standard folder created on the FTP server on the 20th of April.
+
+   * Answer
+  ```sh
+  17:53
+  ```
+
+**<h3>Question11</h3>**
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq11.png"><br>
+
+The ip addres of the user connected to in packet 27300 is 172.67.162.206. Now, if we go to the resolved addresses from conversation ans search this ip address, we can see domain name.
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q11.png"><br>
+
+   * Answer
+  ```sh
+  dfir.science
+  ```
 
 
 

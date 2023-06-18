@@ -390,4 +390,44 @@ We can see the number of packet are displayed is 10.
   10
   ```
 
+**<h3>Question5</h3>**
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq5.png"><br>
+
+The destination adress is the MAC address of the system being investigated. Here in layer 2, we can see the MAC adress.
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q5.png"><br>
+
+   * Answer
+  ```sh
+  c8:09:a8:57:47:93
+  ```
+
+**<h3>Question6</h3>**
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq6.png"><br>
+
+We need to use "ftp-data" as a filter. Then follow tcp stream of any of the packet. Now slect 'raw' in show data as. Save the data. 
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q6.png"><br>
+
+To find out the model of the camera, we are going to use exif tool.
+
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q66.png"><br>
+
+So, the camera model name used to take picture 20210429_152157.jpg is **LM-Q725K**.
+
+   * Answer
+  ```sh
+  LM-Q725K
+  ```
+
+**<h3>Question7</h3>**
+<p align="center">
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq7.png"><br>
+
+
 

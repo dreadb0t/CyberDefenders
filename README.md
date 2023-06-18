@@ -343,6 +343,20 @@ Here it is asking about file transport protocol password. Just applying **ftp** 
   AfricaCTF2021
   ```
 
+**<h3>Question2</h3>**
+<p align="center">
+<img src=""><br>
+
+To find the IPv6 address of the DNS server used by 192.168.1.26, we can go to statistics > conversation. There we can find the IPv6 address of the DNS server used by 192.168.1.26.
+
+<p align="center">
+<img src=""><br>
+
+   * Answer
+  ```sh
+  fe80::c80b:adff:feaa:1db7
+  ```
+
 **<h3>Question3</h3>**
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq3.png"><br>
@@ -357,5 +371,23 @@ CTRL+G> to go to packet 15174. After analysing this packet we can see that there
   www.7-zip.org
   ```
 
+**<h3>Question4</h3>**
+<p align="center">
+<img src=""><br>
+
+To sort out the UDP packets were sent from 192.168.1.26 to 24.39.217.246, we can use the filter **ip.src== 192.168.1.26 && ip.dst ==24.39.217.246 && udp**
+   * Filter
+  ```sh
+  ip.src== 192.168.1.26 && ip.dst ==24.39.217.246 && udp
+  ```
+<p align="center">
+<img src=""><br>
+
+We can see the number of packet are displayed is 10. 
+
+   * Answer
+  ```sh
+  10
+  ```
 
 

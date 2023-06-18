@@ -477,12 +477,12 @@ After the result, the first client Hello packet will have the Random inside.
 The MAC address of the FTP server is 08:00:27:a6:1f:86.
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q9.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q99.png"><br>
 
 Now, to look in which country this mac address is registered in we can use a online tool name 'DNS Lookup'
 
 <p align="center">
-<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q99.png"><br>
+<img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q9.png"><br>
 
    * Answer
   ```sh
@@ -509,7 +509,7 @@ There you can see the time was when a non-standard folder created on the FTP ser
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/qq11.png"><br>
 
-The ip addres of the user connected to in packet 27300 is 172.67.162.206. Now, if we go to the resolved addresses from conversation ans search this ip address, we can see domain name.
+The ip addres of the user connected to in packet 27300 is 172.67.162.206. Now, if we go to the resolved addresses from conversation and search this ip address, we can see domain name.
 
 <p align="center">
 <img src="https://github.com/dreadb0t/CyberDefenders/blob/main/packetmaze.img/q11.png"><br>
